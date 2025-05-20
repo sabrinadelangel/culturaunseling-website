@@ -1,2 +1,2 @@
-# culturaunseling-website
+# culturacounseling-website
 Private Practice Website
